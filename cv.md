@@ -7,6 +7,7 @@ I am looking for a new job, I will be glad to any feedback.
 ##### e-mail: sharcnatch@gmail.com
 ##### profile Linkedin: https://www.linkedin.com/in/anton-labkovich-310b20194/
 ##### GitHub: https://github.com/AntonLabkovich
+##### Telegram: Антон Лабкович
 
 ### Summary
 
