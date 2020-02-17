@@ -1,0 +1,19 @@
+body{
+    font-size: 14pt;
+    text-align: center;
+    color: whitesmoke;
+    background: #221A23;
+}
+
+header{
+    display: flex;
+}
+
+.container{
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.my-foto{
+    margin-right: 25px;
+}
